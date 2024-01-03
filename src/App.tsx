@@ -11,11 +11,11 @@ import { Home } from "./pages/home/Home";
 function App() {
   return (
     <div>
-      <Router>
+      <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />}></Route>
         </Routes>
-      </Router>
+      </BrowserRouter>
     </div>
   );
 }
