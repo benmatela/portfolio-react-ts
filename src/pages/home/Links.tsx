@@ -8,7 +8,7 @@ export const Links = () => {
       url: "https://benmatela.github.io/dreamshare",
     },
     {
-      name: "react-ts-tensorflow",
+      name: "www.react-ts-tensorflow.com",
       url: "https://benmatela.github.io/react-ts-tensorflow/",
     },
     {
