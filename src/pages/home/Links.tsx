@@ -8,12 +8,12 @@ export const Links = () => {
       url: "https://benmatela.github.io/dreamshare",
     },
     {
-      name: "www.angular-bingo.com",
-      url: "https://benmatela.github.io/angular-bingo/#/",
+      name: "react-ts-tensorflow",
+      url: "https://benmatela.github.io/react-ts-tensorflow/",
     },
     {
-      name: "www.react-posts.com",
-      url: "https://benmatela.github.io/posts-crud-react-nodejs",
+      name: "www.react-ts-firebase-crud-redux.com",
+      url: "https://benmatela.github.io/react-ts-firebase-crud-redux/",
     },
     {
       name: "www.github.co.za",
