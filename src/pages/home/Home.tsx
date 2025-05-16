@@ -23,14 +23,10 @@ export const Home = () => {
             Lepekola Benedict Matela
           </h1>
           <p className="max-w-sm text-center text-gray-500 md:text-left">
-            I'm a self-taught full stack developer with 5 years of experience
-            building responsive apps using Angular/HTML/React with CSS
-            frameworks such as Bootstrap and TailwindCSS. <br></br>
-            <br></br>I'm also skilled in NodeJs and Firebase for backend and
-            deployments.
-            <br></br>
-            <br></br>I enjoy learning new technology and using it to create
-            innovative solutions.
+           I'm a Senior Full Stack Software Developer with over 7 years of experience building responsive, scalable, and user-focused applications across both frontend and backend. My expertise spans modern JavaScript frameworks like React, Angular, and ElectronJS, paired with robust backend development using Node.js and Google Cloud Functions.<br></br>
+            I’ve contributed to high-impact projects in fintech, telecom, and startups—delivering everything from internal portals to customer-facing mobile apps. I'm passionate about clean code, scalable architecture, and seamless user experiences. I’ve also explored AI through personal projects using Python and the Google Vision API, reflecting my curiosity and drive to innovate.<br></br>
+            Currently, I’m building full-stack applications using React and ASP.NET Core at Co-Flo, and actively collaborating with stakeholders to drive feature development, fix critical bugs, and prototype new ideas.<br></br>
+            If you're looking for someone who can take ownership of a feature from idea to production—or integrate seamlessly into your existing team—I’d love to connect.<br></br>
           </p>
           <div className="flex justify-center md:justify-start">
             <Button
